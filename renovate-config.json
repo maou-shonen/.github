@@ -1,6 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": ["Global Renovate preset for maou-shonen repos"],
+  "enabled": false,
   "extends": [
     "config:recommended",
     "helpers:pinGitHubActionDigests",
